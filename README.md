@@ -2,3 +2,6 @@
 
 ## mission2
 readme.md update
+
+## update function
+add read
